@@ -1,0 +1,15 @@
+﻿  tools.c
+D:\VisualStudio\项目\examination\examination\tools.c(25,8): warning C4101: “offset”: 未引用的局部变量
+D:\VisualStudio\项目\examination\examination\tools.c(24,7): warning C4101: “num”: 未引用的局部变量
+D:\VisualStudio\项目\examination\examination\tools.c(236,3): warning C4098: “Delite_simple”:“void”函数返回值
+D:\VisualStudio\项目\examination\examination\tools.c(286,2): warning C4098: “Delite_simple”:“void”函数返回值
+D:\VisualStudio\项目\examination\examination\tools.c(430,3): warning C4098: “Delite_multiple”:“void”函数返回值
+D:\VisualStudio\项目\examination\examination\tools.c(480,2): warning C4098: “Delite_multiple”:“void”函数返回值
+D:\VisualStudio\项目\examination\examination\tools.c(626,3): warning C4098: “Delite_judge”:“void”函数返回值
+D:\VisualStudio\项目\examination\examination\tools.c(675,2): warning C4098: “Delite_judge”:“void”函数返回值
+D:\VisualStudio\项目\examination\examination\tools.c(734,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\VisualStudio\项目\examination\examination\tools.c(800,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\VisualStudio\项目\examination\examination\tools.c(872,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\VisualStudio\项目\examination\examination\tools.c(718,9): warning C4101: “j”: 未引用的局部变量
+D:\VisualStudio\项目\examination\examination\tools.c(51,1): warning C4715: “regtister”: 不是所有的控件路径都返回值
+  examination.vcxproj -> D:\VisualStudio\项目\examination\x64\Debug\examination.exe
